@@ -11,5 +11,6 @@ function randomizeText() {
 }
 
 module.exports = {
-	randomizeText: randomizeText
+	randomizeText: randomizeText,
+	text: text
 }
