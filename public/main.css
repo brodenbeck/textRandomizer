@@ -1,0 +1,24 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Sigmar One', cursive;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	color: #FFFBFE;
+}
+
+.headings {
+	margin: 5% 0 0 5%;
+}
+
+p {
+	font-family: 'Poiret One', cursive;
+	color: #FFFBFE;
+}
+
+#ranText {
+	position: relative;
+	top: 20%;
+	left: 65%;
+	width: 30%;
+	text-align: center;
+}
