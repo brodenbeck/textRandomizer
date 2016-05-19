@@ -1,6 +1,5 @@
 $(function() {
-	$.get('/api/random', function(data) {
-		console.log(data);
+	$.get('/random', function(data) {
 		$('#ranText').text(data);
 	});
 
